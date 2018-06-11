@@ -1,2 +1,3 @@
 docstand:
-  mkdocs: default
+  mkdocs:
+    config-file: mkdocs.yml
